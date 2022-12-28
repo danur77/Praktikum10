@@ -1,8 +1,8 @@
 # Praktikum-12
 
-Nama  : Yoga Pratama
+Nama  : Danang NUrcahyo
 
-NIM   : 312210042
+NIM   : 312210004
 
 Kelas : TI.22.A1
 
