@@ -1,4 +1,4 @@
-# Praktikum-12
+# Praktikum10
 
 Nama  : Danang NUrcahyo
 
