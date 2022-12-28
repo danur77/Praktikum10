@@ -58,12 +58,10 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       
 #### Output Latihan 1
 
-![Run Lat1](https://user-images.githubusercontent.com/115678171/209813157-e5feafdb-1bef-4df3-a8e7-da4583d5bbeb.png)
 
 
 ### Latihan 2
 
-![soal lat2](https://user-images.githubusercontent.com/115678171/209813244-a47276a6-ec86-4541-abd0-3794dbcf1bae.png)
 
 #### Penjelasan Latihan 2
 Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk menempatkan variable sebelumnya.
