@@ -1,8 +1,8 @@
 # Praktikum-12
 
-Nama  : Danang Nurcahyo
+Nama  : Yoga Pratama
 
-NIM   : 312210004
+NIM   : 312210042
 
 Kelas : TI.22.A1
 
@@ -58,10 +58,11 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       
 #### Output Latihan 1
 
-
+![Run lat 1](https://user-images.githubusercontent.com/115677839/209825153-fc75ee75-a35f-41bf-9380-a3efa678f7b0.png)
 
 ### Latihan 2
 
+![soal lat2](https://user-images.githubusercontent.com/115678171/209813244-a47276a6-ec86-4541-abd0-3794dbcf1bae.png)
 
 #### Penjelasan Latihan 2
 Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk menempatkan variable sebelumnya.
@@ -73,7 +74,8 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
       
 #### Output Latihan 2
 
-![Run Lat2](https://user-images.githubusercontent.com/115678171/209813319-083bd79e-6d6e-40b4-b020-e666d9ae71a1.png)
+![Run lat 2](https://user-images.githubusercontent.com/115677839/209825193-f9001bb2-21f9-41ff-85cb-640b1f96a1f0.png)
+
 
 
 ## Terima Kasih :)
