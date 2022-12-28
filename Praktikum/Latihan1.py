@@ -1,5 +1,5 @@
-print("Nama : Yoga Pratama")
-print("NIM  : 312210042")
+print("Nama : Danang Nurcahyo")
+print("NIM  : 312210004")
 
 txt = 'Hello World'
 print()
